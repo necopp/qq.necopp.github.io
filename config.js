@@ -1,6 +1,6 @@
 let hanConfigData = {
     //这里是QQ收藏API解析接口，默认即可
-    "apiUrl": "https://api.vvhan.com/api/qqsc",
+    "apiUrl": "https://www.jkapi.com/api/qsc?url=",
     //这里填写你的QQ收藏分享地址
     "qqKey": "https://sharechain.qq.com/5b31cd641fb80085b63cc2656f70a15a",
     //这里填写自己的底部版权
